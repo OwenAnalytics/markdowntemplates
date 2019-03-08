@@ -65,7 +65,9 @@ to_jupyter <- function(inputFile, encoding) {
   message("Started converting R Markdown to Jupyter Notebook...")
   message(" - Locating [notedown]...")
 
-  cmd <- Sys.which("notedown")
+  
+  #cmd <- Sys.which("notedown")
+  cmd <- '/Users/abhijit/bin/notedown'
 
   if (cmd == "") {
 
