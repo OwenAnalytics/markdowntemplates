@@ -5,7 +5,7 @@ output:
   md_document:
     variant: markdown_github
 ---
-[![Build Status](https://travis-ci.org/hrbrmstr/markdowntemplates.svg)](https://travis-ci.org/hrbrmstr/markdowntemplates)
+[![Build Status](https://travis-ci.org/owenanalytics/markdowntemplates.svg)](https://travis-ci.org/hrbrmstr/markdowntemplates)
 
 A package of R markdown templates and knitr knit engine replacments
 
